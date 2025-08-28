@@ -15,8 +15,8 @@ Working on taking a regular scooter and converting it into an electric scooter b
 
 ##Current Status
 
-Testing physical system [Currently waiting on parts to be delivered]
-Creating the chassis to hold components
+-Testing physical system [Currently waiting on parts to be delivered]
+-Creating the chassis to hold components
 
 ## Future Goals
 
